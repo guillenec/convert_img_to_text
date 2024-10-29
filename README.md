@@ -31,3 +31,18 @@ E: No se ha podido localizar el paquete obs-Studio
 ## captura instalacion del programa
 
 ![captura del programa x instalda](./captura1.png)
+
+## añadimos una tabla
+
+| Izquierda  | Centro   | Derecha |
+|:---------- |:--------:|--------:|
+| Dato 1     | Dato 2   | Dato 3  |
+| Dato 4     | Dato 5   | Dato 6  |
+
+## integrantes
+
+| ![Guillermo Neculqueo](./guille8.jpg) | ![Lucero Camila](./guille2.png) |
+|-----------------------|-------------------|
+| **Guillermo Neculqueo**  | **Lucero Camila** |
+| <guillermoneculqueoq@gmail.com> | <camila_lucero@gmail.com> |
+| [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillenec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillenec) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camila_lucero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camila_lucero) |
