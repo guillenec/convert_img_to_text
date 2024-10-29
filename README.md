@@ -46,3 +46,5 @@ E: No se ha podido localizar el paquete obs-Studio
 | **Guillermo Neculqueo**  | **Lucero Camila** |
 | <guillermoneculqueoq@gmail.com> | <camila_lucero@gmail.com> |
 | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guillenec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillenec) | [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camila_lucero) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camila_lucero) |
+
+## Hola 123
