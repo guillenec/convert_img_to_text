@@ -27,3 +27,7 @@ Leyendo la información de estado... Hecho
 E: No se ha podido localizar el paquete obs-Studio
  ✘ guillenec@localhost  ~/.ssh 
 ```
+
+## captura instalacion del programa
+
+![captura del programa x instalda](./captura1.png)
